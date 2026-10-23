@@ -1,7 +1,6 @@
-
 # PHP Learning Journey
 
-I am learning PHP using VS Code and XAMPP.
+I am learning PHP using VS Code and XAMPP, from the basics toward building web applications.
 
 ## Lessons
 
